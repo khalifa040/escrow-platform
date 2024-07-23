@@ -16,3 +16,4 @@ An escrow platform is a secure and trustless system that holds and regulates the
 - *Efficiency*: Streamlines the transaction process.
 - *Transparency*: Provides a clear and transparent transaction record.
 
+Now that we've covered the key aspects of the escrow platform, it's time to write the code that will make it work. Below is the implementation in PHP programming language and JavaScript.
